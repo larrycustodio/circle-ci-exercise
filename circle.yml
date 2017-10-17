@@ -3,3 +3,6 @@ deployment:
     branch: master
     heroku:
       appname: lc-deliver-it-well
+machine:
+  node:
+    version: 8.1.4
